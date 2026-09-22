@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.juniorchina.jcstock",
+      "sha256_cert_fingerprints": ["0D:8C:15:A6:E7:F2:8A:54:60:CD:78:90:58:FF:EE:97:C4:49:44:F1:18:86:B0:D7:8F:D9:2C:B3:E8:B8:C1:0B"]
+    }
+  }
+]
